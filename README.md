@@ -48,3 +48,11 @@
     <img alt="MANEF contribution snake" src="https://raw.githubusercontent.com/official-manef/official-manef/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+## Repositori publik terpilih
+
+- [Agent@Manef](https://github.com/official-manef/agent-at-manef) — toolkit konteks agen dengan pendekatan satu sumber kebenaran.
+- [MANEF Architecture](https://github.com/official-manef/manef-diagram) — peta arsitektur, komponen dan panduan pengembangan.
+- [Titipin](https://github.com/official-manef/jastip) — eksperimen perangkat bantu operasional jastip; baca README proyek untuk status fitur dan batasan.
+
+Daftar di atas bersifat selektif, bukan daftar seluruh proyek. Dokumentasi masing-masing repositori merupakan rujukan teknis yang lebih mutakhir. Status implementasi, pengujian, dan penerimaan produksi tidak boleh dianggap sama.
